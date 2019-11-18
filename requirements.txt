@@ -1,0 +1,4 @@
+pywal
+requests
+urllib3
+pillow
